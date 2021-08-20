@@ -1,3 +1,3 @@
 # Hello
 
-Make sure to unzip all the js files and delete it and README.md
+Make sure to unzip all the js files in the *src* folder of the zip and delete the zip file and README.md
