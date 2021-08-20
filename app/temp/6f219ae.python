@@ -1,0 +1,5 @@
+class console:
+    def log(m: str):
+        print(str(m))
+        
+console.log("Hello World")
